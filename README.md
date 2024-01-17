@@ -1,6 +1,9 @@
 # Login and registration with MERN stack
 
-User Registration and Login functionality with validations using React, NodeJs, ExpressJs and MongoDB and authentication using passport and JWTs.
+User Registration and Login functionality with validations using 
+- React, 
+- NodeJs, 
+- ExpressJs and MongoDB and authentication using passport and JWTs.
 
 
 This project uses the following technologies:
